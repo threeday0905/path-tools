@@ -43,6 +43,11 @@ Example:
 
     isChildFile('/home/app/index.js', '/home/app/folder/index.js'); //true
     isChildFile('/home/app/index.js', '/home/index.js'); //false
+
+##### All Native Path APIs
+
+such as: `join()`, `resolve()`, `normalize()`, `extname()`, `basename()`, etc.
+
     
 ---
 ### Questions?
